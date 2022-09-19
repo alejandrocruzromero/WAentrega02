@@ -1,0 +1,26 @@
+1 crear nuevo proyecto
+ expo init Class07
+
+ npm install expo-font
+2) arrancar el proyecto 
+    npm start clase07
+
+3) arrancar el emulador de android
+
+4) Listo
+
+---------INicio aplicacion
+
+    1) primero  se crea un encabezado
+        se crea la carpeta 'components'
+        dentro de esta se crea un componente llamado header.js
+
+.---REPO:
+    github.com/sotopro/numbersgameapp        
+    https://github.com/sotopro/numbersgameapp
+
+
+    32:22
+    1:38.39
+
+    
